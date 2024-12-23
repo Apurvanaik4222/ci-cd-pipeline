@@ -195,13 +195,13 @@ To Create jenkins CI/CD pipeline :
         
     7. Create a New item - Pipeline
     
-       Under Pipeline section - select pipeline from SCM -- use your forker repo URL
+       Under Pipeline section - select pipeline from SCM -- use your forked repo URL
         
         
     8. Save and apply ... Click on Build Now ..
     
     
-    9. Add webhook trigger in github 
+    9. Add webhook trigger in github repo:
         
         http://18.234.36.131:8080/github-webhook/
         
